@@ -4,6 +4,7 @@ subtitle: "Welcome to Henrik's home in Cyperspace"
 date: 2021-11-15T20:58:43-08:00
 description: ""
 categories: [Website]
+featuredImage: "featured-image.jpg"
 
 ---
 ## Welcome
