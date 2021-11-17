@@ -58,4 +58,4 @@ Disallow: /
 User-agent: *
 Allow: *
 
-Sitemap: http://example.org/sitemap.xml
+Sitemap: https://TheDoubleH.dev/sitemap.xml
