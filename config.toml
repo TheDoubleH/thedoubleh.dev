@@ -62,14 +62,6 @@ enableRobotsTXT = true
         title = ""
         weight = 4
       [[languages.en.menu.main]]
-        identifier = "authors"
-        pre = ""
-        post = ""
-        name = "Authors"
-        url = "/authors/"
-        title = ""
-        weight = 5
-      [[languages.en.menu.main]]
         identifier = "showcase"
         pre = ""
         post = ""
