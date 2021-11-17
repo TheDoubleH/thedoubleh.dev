@@ -5,9 +5,7 @@ date: 2021-11-15T20:58:43-08:00
 description: ""
 categories: [General]
 featuredImage: "featured-image.jpg"
-authors: [Henrik]
 lightgallery: true
-
 ---
 ## Welcome
 

@@ -14,6 +14,8 @@ enableRobotsTXT = true
   description = "Ramblings about Microsoft Dynamics 365 Business Central"
   # site keywords
   keywords = ["Microsoft Dynamics 365 Business Central", "Navision", "Microsoft Dynamics-NAV"]
+  # date formatting
+  dateFormat = "January 1, 2006"
 
   [params.header.title]
     # URL of the LOGO
@@ -65,13 +67,13 @@ enableRobotsTXT = true
       # title shown in home page (HTML format is supported)
       title = "Henriks Home in Cyberspace"
       # subtitle shown in home page
-      subtitle = "With over 20 years of doing this, I should have something to share ..."
+      subtitle = "Over twenty years of doing NAV and now BC, I have a few ideas - Whether they are any good, is up to You"
       # whether to use typeit animation for subtitle
-      typeit = true
+      typeit = false
       # whether to show social links
       social = true
       # disclaimer (HTML format is supported)
-      disclaimer = "<i>Welcome to my humble abode ...</i>"
+      disclaimer = ""
 
     # Home page posts
     [params.home.posts]
@@ -199,3 +201,6 @@ enableRobotsTXT = true
   [markup.highlight]
     # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
     noClasses = false
+
+[author]
+  name = " "
