@@ -22,3 +22,14 @@ Blah Blah Blah Blah
 Blah Blah Blah Blah
 Blah Blah Blah Blah
 Blah Blah Blah Blah
+
+{{< typeit code=al >}}
+procedure ALGuidelinesRock()
+  var
+    Customer: Record Customer;
+  begin
+    Customer.Get('10000');
+    Customer.Name := 'waldo';
+    Customer.Modify(true);
+  end;
+{{< /typeit >}}

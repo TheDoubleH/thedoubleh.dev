@@ -19,5 +19,8 @@ I know that there are plenty of blogs out there on these subjects, but I hope I 
 
 I will also try an document my OpenSource Business Central apps.
 
+Lastly: a shoutout to 
+{{< friend name="Jeremy Vyska" url="https://jeremy.vyska.info/" avatar="https://avatars.githubusercontent.com/u/35526546?v=4" bio="America BC Developer living in Sweden" >}}
+
 ### Behind the Scenes
 This Blog is my first [hugo](https://gohugo.io/) site, hosted on github pages. so let's see how that goes.

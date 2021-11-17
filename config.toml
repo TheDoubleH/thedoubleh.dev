@@ -14,7 +14,29 @@ enableRobotsTXT = true
   description = "Ramblings about Microsoft Dynamics 365 Business Central"
   # site keywords
   keywords = ["Microsoft Dynamics 365 Business Central", "Navision", "Microsoft Dynamics-NAV"]
+
+  [params.header.title]
+    # URL of the LOGO
+    logo = ""
+    # title name
+    name = "Henrik's home in Cyberspace"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = "<i class='far fa-edit fa-fw'></i>"
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    # whether to use typeit animation for title name
+    typeit = true
   
+  [params.typeit]
+    # typing speed between each step (measured in milliseconds)
+    speed = 100
+    # blinking speed of the cursor (measured in milliseconds)
+    cursorSpeed = 1000
+    # character used for the cursor (HTML format is supported)
+    cursorChar = "|"
+    # cursor duration after typing finishing (measured in milliseconds, "-1" means unlimited)
+    duration = -1
+    
   # App icon config
   [params.app]
     # optional site title override for the app when added to an iOS home screen or Android launcher
@@ -162,6 +184,14 @@ enableRobotsTXT = true
     url = "/about/"
     title = ""
     weight = 8
+  [[menu.main]]
+    identifier = "github"
+    pre = "<i class='fab fa-github fa-fw'></i>"
+    post = ""
+    name = ""
+    url = "https://github.com/TheDoubleH/thedoubleh.dev"
+    title = "GitHub"
+    weight = 9    
 
 # Markup related configuration in Hugo
 [markup]
