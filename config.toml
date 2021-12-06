@@ -16,7 +16,7 @@ googleAnalytics = '293658201'
   # site keywords
   keywords = ["Microsoft Dynamics 365 Business Central", "Navision", "Microsoft Dynamics-NAV"]
   # date formatting
-  dateFormat = "January 1, 2006"
+  dateFormat = "Monday, Jan 2, 2006"
 
   [params.header.title]
     # URL of the LOGO
