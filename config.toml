@@ -3,7 +3,6 @@ languageCode = 'en-us'
 title = 'Henriks home in cyberspace'
 theme = 'DoIt'
 enableRobotsTXT = true
-googleAnalytics = '293658201'
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
@@ -17,6 +16,14 @@ googleAnalytics = '293658201'
   keywords = ["Microsoft Dynamics 365 Business Central", "Navision", "Microsoft Dynamics-NAV"]
   # date formatting
   dateFormat = "Monday, Jan 2, 2006"
+
+  [params.analytics]
+    enable = true
+    # Google Analytics
+    [params.analytics.google]
+      id = "G-2HRY688E3B"
+      # whether to anonymize IP
+      anonymizeIP = false
 
   [params.header.title]
     # URL of the LOGO
