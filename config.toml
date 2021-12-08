@@ -89,6 +89,14 @@ enableRobotsTXT = true
       Skype = false
       Trello = false
       Mix = false
+
+      [params.page.comment]
+      enable = true
+      # Disqus comment config
+      [params.page.comment.disqus]
+        enable = true
+        # Disqus shortname to use Disqus in posts
+        shortname = "thedoubleh"
       
   # Home page config
   [params.home]
