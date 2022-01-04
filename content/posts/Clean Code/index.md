@@ -2,10 +2,11 @@
 title: "Clean Code"
 subtitle: "You will not be the last person to see your code"
 date: 2021-12-03T13:08:06-08:00
+lastmod: 2022-01-03T13:08:06-08:00
 draft: false
 description: ""
 tags: []
-categories: []
+categories: [Development, Design]
 series: []
 series_weight: 1
 seriesNavigation: true
@@ -17,7 +18,7 @@ outdatedArticleReminder:
 share:
   enable: true
 ---
-## Why is Clean Code and Standards Important? 
+## Why is Clean Code and Standards Important?
 
 In the last few years, I have spoken with developers that are new to BC. A lot of them have done lots of dotnet. Most of them all look at me confused when I talk to them about Development Standards - Especially when it comes to Variable Naming etc. I likewise look baffled when they don't understand the importance of this.
 
@@ -36,14 +37,14 @@ The first time I really heard about it was when I attended a session at [NAVTech
 > A Codeunit should only have one global function,
 
 and
- 
+
 > A function should not have more than 20 lines of code
 
 My first reaction was: "*What have they been smoking?*"
 
 It wasn't until I "got home" and tried to implement some of these ideas at customer sites myself. I, to this day, still remember the implementation I worked on, where I created a `Sales Post - Hook` codeunit. Initially I thought: "This is dumb - I am creating an extra object, just to transfer some fields from the `Sales Line` to the `Item Journal Line`, and from the `Sales Header` to the `General Journal Line`. But "This is the way, now" so I gave it a chance. Lo and behold - a month or so later, the client wanted some additional fields, and I realized that, I no longer had to change Codeunit 80 - `Sales - Post`, but just changing "my" codeunit `Sales Post - Hook`! By creating the hook, I had encapsulated this modification, so they were easy to update and maintain!
 
-From then on, I fully embraced these design patterns, and I tried to educate the developers I work with to do the same. Granted it can be difficult to teach an old dog new tricks, but the team is slowly getting there. 
+From then on, I fully embraced these design patterns, and I tried to educate the developers I work with to do the same. Granted it can be difficult to teach an old dog new tricks, but the team is slowly getting there.
 
 Just recently, I had a Developer do some code review on my code, and he said:
 
@@ -53,9 +54,9 @@ And this is exactly what I try to do. The code should really look like a table o
 
 ## Clean Code makes debugging and fixing code easier
 
-We have all done code cloning, where we have repeated code inside a `CASE` statement (If you say you haven't, you are lying!). I myself once was trying to debug some code that I wrote. The customer had reported back that under certain circumstances one piece of the code wasn't executed. This code was written just like "we" always had, namely hundreds on lines inside one function. Trying to read all of the code, I finally decided to refactor and break the code into pieces. 
+We have all done code cloning, where we have repeated code inside a `CASE` statement (If you say you haven't, you are lying!). I myself once was trying to debug some code that I wrote. The customer had reported back that under certain circumstances one piece of the code wasn't executed. This code was written just like "we" always had, namely hundreds on lines inside one function. Trying to read all of the code, I finally decided to refactor and break the code into pieces.
 
-By moving all of the code to discrete functions, and then removing those blocks, it became obvious that I had forgotten to copy some code to that scenario. 
+By moving all of the code to discrete functions, and then removing those blocks, it became obvious that I had forgotten to copy some code to that scenario.
 
 ```AL
 IF ("Method Type" IN ["Method Type"::Authorize, "Method Type"::"Voice Authorize", "Method Type"::"Return Authorize"]) AND
@@ -108,6 +109,7 @@ begin
     SalesLine.Setfilter("Qty. Outstanding", '%1',0);
 end;
 ```
+
 it is easy for anyone to understand that the filter `SalesLine.Setfilter("Qty. Outstanding", '%1',0);` is incorrect - The procedure name shows the intent of retrieving outstanding sales lines.
 
 ## What's next
