@@ -2,7 +2,7 @@
 title: "Performance vs User-Experience"
 subtitle: "What is more important to the user?"
 date: 2022-01-03T16:06:20-08:00
-draft: true
+draft: false
 authors: [Henrik]
 description: ""
 tags: []
