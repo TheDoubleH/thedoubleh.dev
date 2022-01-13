@@ -60,6 +60,9 @@ enableRobotsTXT = true
     # Windows v8-10 tile color
     tileColor = "#da532c"
 
+  [params.page.library.js]
+      gravitec = "https://cdn.gravitec.net/storage/4ff0afb0e7e165ff9815935e7eeca02e/client.js"
+      
   [params.page.share]
       enable = true
       Twitter = true
