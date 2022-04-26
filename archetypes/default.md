@@ -17,4 +17,6 @@ outdatedArticleReminder:
   enable: true
 share:
   enable: true
+toc: 
+  auto: false
 ---

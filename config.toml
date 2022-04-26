@@ -93,6 +93,10 @@ enableRobotsTXT = true
       Trello = false
       Mix = false
 
+      [params.page.toc]
+        enable = true
+        keepStatic = false
+
       [params.page.comment]
       enable = true
       # Disqus comment config
