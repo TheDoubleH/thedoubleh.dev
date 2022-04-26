@@ -17,6 +17,8 @@ outdatedArticleReminder:
   enable: false
 share:
   enable: true
+toc: 
+  auto: false  
 ---
 
 ## Perception is Reality
