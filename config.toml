@@ -60,6 +60,9 @@ enableRobotsTXT = true
     # Windows v8-10 tile color
     tileColor = "#da532c"
 
+  [params.page]
+      seriesNavigation = true
+
   [params.page.library.js]
       gravitec = "https://cdn.gravitec.net/storage/4ff0afb0e7e165ff9815935e7eeca02e/client.js"
       
@@ -178,6 +181,21 @@ enableRobotsTXT = true
       useExtendedSearch = false
       ignoreFieldNorm = false
 
+  [params.footer]
+    enable = true
+    # Custom content (HTML format is supported)
+    custom = ''
+    # whether to show Hugo and theme info
+    hugo = true
+    # Hosted on (HTML format is supported)
+    hostedOn = '<a title="Github Pages" href="https://docs.github.com/en/pages/" target="_blank" rel="noopener noreffer">GitHub Pages</a>' 
+    # whether to show copyright info
+    copyright = true
+    # whether to show the author
+    author = false
+    # site creation time
+    since = 2022
+
 # Menu config
 [menu]
   [[menu.main]]
@@ -257,3 +275,14 @@ enableRobotsTXT = true
 
 [author]
   name = " "
+
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[taxonomies]
+author = "authors"
+category = "categories"
+tag = "tags"
+series = "series"
