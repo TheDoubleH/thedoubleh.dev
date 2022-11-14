@@ -147,6 +147,9 @@ enableRobotsTXT = true
     BuyMeACoffee = "TheDoubleH"
     Email = "henrik@helgesen.us"
     RSS = true
+  [params.social.Mastodon]
+    id = "@TheDoubleH"
+    prefix = "https://msdyn365.social/"
 
   # Search Configuration
   [params.search]
