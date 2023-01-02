@@ -65,6 +65,7 @@ enableRobotsTXT = true
 
   [params.page.library.js]
       gravitec = "https://cdn.gravitec.net/storage/4ff0afb0e7e165ff9815935e7eeca02e/client.js"
+      illow = "https://platform.illow.io/banner.js?siteId=eb4c948e-5bce-4339-b445-c9f5017b21ab"
       
   [params.page.share]
       enable = true
