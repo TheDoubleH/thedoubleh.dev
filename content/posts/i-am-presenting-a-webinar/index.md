@@ -10,11 +10,12 @@ categories: [Development]
 series: []
 series_weight: 1
 seriesNavigation: true
+images: ['featured-image.jpg']
 featuredImage: "featured-image.jpg"
 featuredImagePreview: ""
 lightgallery: true
 outdatedArticleReminder:
-  enable: true
+  enable: false
 share:
   enable: true
 toc: 
