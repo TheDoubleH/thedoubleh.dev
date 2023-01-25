@@ -7,9 +7,10 @@ authors: [Henrik]
 description: "Description Here"
 tags: []
 categories: [Development]
-series: [Give the User a Chance tadaa]
+series: [Give the User a Chance]
 series_weight: 1
 seriesNavigation: true
+images: ['featured-image.jpg']
 featuredImage: "featured-image.jpg"
 featuredImagePreview: ""
 lightgallery: true
