@@ -4,6 +4,8 @@ subtitle: "Welcome to Henrik's home in Cyperspace"
 date: 2021-11-15T20:58:43-08:00
 description: ""
 categories: [General]
+
+images: ['featured-image.jpg']
 featuredImage: "featured-image.jpg"
 lightgallery: true
 ---

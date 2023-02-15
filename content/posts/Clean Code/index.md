@@ -10,6 +10,7 @@ categories: [Development, Design]
 series: []
 series_weight: 1
 seriesNavigation: true
+images: ['featured-image.jpg']
 featuredImage: "featured-image.jpg"
 featuredImagePreview: ""
 lightgallery: true
