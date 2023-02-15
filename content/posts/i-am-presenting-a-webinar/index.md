@@ -25,7 +25,7 @@ toc:
 
 At the end of March I finally convinced myself, that I DO have some things to share for the Developers in our little world. I submitted a session for [BcTechDays](https://bctechdays.com). as of today, I do not know if our session have been accepted or not, but no matter not, I will be in Antwerp.
 
-{{< tweet 1508521984849694721 >}}
+{{< tweet user="TheDoubleH" id=1508521984849694721 >}}
 
 ## It's time
 
