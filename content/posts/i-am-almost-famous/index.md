@@ -23,8 +23,6 @@ toc:
 ---
 ## Dynamics Corner
 
-[NAVTechDays](https://bctechdays.com/)
-
 I had the pleasure and honor of being invited to join [Kris](https://twitter.com/Matalino16/) and [Brad](https://twitter.com/dvlprlife) on their [Dynamics Corner](https://www.youtube.com/@dynamicscorner/). We talked Tesla, NAV and Business Central - and about being a dinosaur, that believes that
 
 >Just because You can, doesn't mean you should!
