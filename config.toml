@@ -286,7 +286,10 @@ enableRobotsTXT = true
   priority = 0.5
 
 [taxonomies]
-author = "authors"
-category = "categories"
-tag = "tags"
-series = "series"
+  author = "authors"
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+[social]
+  twitter = 'TheDoubleH'
