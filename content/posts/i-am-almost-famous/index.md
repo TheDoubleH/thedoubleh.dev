@@ -1,6 +1,6 @@
 ---
 title: "I Am Almost Famous"
-subtitle: ""
+subtitle: "Well - I appeared on the Dynamics Corner Podcast ..."
 date: 2023-07-18T15:40:13-07:00
 draft: false
 authors: [Henrik]
@@ -30,3 +30,9 @@ I had the pleasure and honor of being invited to join [Kris](https://twitter.com
 Read more about this episode on the [Dynamics Corner Website](https://www.dynamicscorner.com/2023/07/episode-227-in-the-dynamics-corner-chair-where-dinosaurs-meet/) or watch the episode here:
 
 {{< youtube yPq_9JtAMJw >}}
+
+## People Mentioned
+
+{{< friend name="Kristoffer Ruyeras" url="https://matalino.io/about/" avatar="https://pbs.twimg.com/profile_images/1535294689263222789/fdkYgzgD_400x400.jpg" bio="Co-Host of Dynamics Corner Podcast" >}}
+
+{{< friend name="Brad" url="https://www.dvlprlife.com/" avatar="https://pbs.twimg.com/profile_images/1067046841869459460/1EBMGra-_400x400.jpg" bio="Co-Host of Dynamics Corner Podcast" >}}
