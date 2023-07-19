@@ -2,7 +2,7 @@
 title: "I Am Almost Famous"
 subtitle: ""
 date: 2023-07-18T15:40:13-07:00
-draft: true
+draft: false
 authors: [Henrik]
 description: ""
 tags: []
