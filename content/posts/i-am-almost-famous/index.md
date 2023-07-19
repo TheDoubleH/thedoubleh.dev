@@ -10,8 +10,8 @@ categories: []
 series: []
 series_weight: 1
 seriesNavigation: true
-images: ['./featured-image.jpg']
-featuredImage: "./featured-image.jpg"
+images: ['posts/i-am-almost-famous/featured-image.jpg']
+featuredImage: "featured-image.jpg"
 featuredImagePreview: ""
 lightgallery: true
 outdatedArticleReminder:

@@ -10,7 +10,7 @@ categories: [Development]
 series: []
 series_weight: 1
 seriesNavigation: true
-images: ['featured-image.jpg']
+images: ['posts/i-am-presenting-a-webinar/featured-image.jpg']
 featuredImage: "featured-image.jpg"
 featuredImagePreview: ""
 lightgallery: true

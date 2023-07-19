@@ -10,7 +10,7 @@ categories: [Development]
 series: [Give the User a Chance]
 series_weight: 1
 seriesNavigation: true
-images: ['featured-image.jpg']
+images: ['posts/give-the-user-a-chance/featured-image.jpg']
 featuredImage: "featured-image.jpg"
 featuredImagePreview: ""
 lightgallery: true

@@ -10,7 +10,7 @@ categories: [Development, Design, Job Queue]
 series: []
 series_weight: 1
 seriesNavigation: true
-images: ['featured-image.jpg']
+images: ['posts/performancevsexperience/featured-image.jpg']
 featuredImage: "featured-image.jpg"
 featuredImagePreview: ""
 lightgallery: true
