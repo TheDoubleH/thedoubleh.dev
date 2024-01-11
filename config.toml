@@ -240,19 +240,11 @@ relativeURLs = true
     title = ""
     weight = 4
   [[menu.main]]
-    identifier = "showcase"
+    identifier = "meetme"
     pre = ""
     post = ""
-    name = "Showcase"
-    url = "/showcase/"
-    title = ""
-    weight = 6
-  [[menu.main]]
-    identifier = "documentation"
-    pre = ""
-    post = ""
-    name = "Docs"
-    url = "/categories/documentation/"
+    name = "Meet Me"
+    url = "/meetme/"
     title = ""
     weight = 7
   [[menu.main]]
