@@ -26,7 +26,7 @@ After being in attendee in several conferences in the NAV / Business Central Wor
 
 Shorty after coming home to Los Angeles, CA I submitted a session for Dynamics CON Live, and was encouraged to submit additional sessions. Thankfully after some conversations with Brad Prendergast (aka @dvlprlife) we ended up getting two sessions approved.
 
-That is how it started. hopefully I will see you at some of the events. Checkout my Sessionnize profile [here!](https://sessionize.com/TheDoubleH/)
+That is how it started. hopefully I will see you at some of the events. Checkout my Sessionize profile [here!](https://sessionize.com/TheDoubleH/)
 
 ## Events
 
