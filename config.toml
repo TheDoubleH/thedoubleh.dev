@@ -68,6 +68,7 @@ relativeURLs = true
       gravitec = "https://cdn.gravitec.net/storage/4ff0afb0e7e165ff9815935e7eeca02e/client.js"
       illow = "https://platform.illow.io/banner.js?siteId=eb4c948e-5bce-4339-b445-c9f5017b21ab"
       usermetric = "https://app.usermetric.io/pixel/1UCoCRuBvTZba9e5"
+      bannerloader = bannerloader.js
       
   [params.page.share]
       enable = true
