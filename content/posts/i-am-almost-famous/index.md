@@ -3,7 +3,6 @@ title: "I Am Almost Famous"
 subtitle: "Well - I appeared on the Dynamics Corner Podcast ..."
 date: 2023-07-18T15:40:13-07:00
 draft: false
-authors: [Henrik]
 description: ""
 tags: []
 categories: []

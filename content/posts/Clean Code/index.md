@@ -28,7 +28,7 @@ To me, the most important reason is:
 
 And while that was truer in the NAV world, where the code was saved in the Database, I still believe this to be true in Business Central. Only difference is that Your code will now be saved in a git repository, while the source code may be hidden in your .app file that You distribute. If You do not follow commonly agreed upon standards, you are ending up spending additional time while you maintain the code - especially if a co-worker needs to participate.
 
-As someone who have worked with NAV and BC for over 20 years, I have seen my share of code created by someone else - and some of my own for that matter - getting frustrated that I wasn't able to skim the code due to inconsistent ways of writing the code. I used to work with a guy, who in every piece of code would have a variable `Aux`. Sometimes this variable was a Customer Table, other times an Integer, decimal ... You get the idea. Fact was, trying to debug his code ALWAYS ment adding extra time to figure out what actually went on.
+As someone who have worked with NAV and BC for over 20 years, I have seen my share of code created by someone else - and some of my own for that matter - getting frustrated that I wasn't able to skim the code due to inconsistent ways of writing the code. I used to work with a guy, who in every piece of code would have a variable `Aux`. Sometimes this variable was a Customer Table, other times an Integer, decimal ... You get the idea. Fact was, trying to debug his code ALWAYS meant adding extra time to figure out what actually went on.
 
 ## Clean Code and Design Patterns isn't a new thing
 
@@ -116,7 +116,7 @@ it is easy for anyone to understand that the filter `SalesLine.Setfilter("Qty. O
 
 Following a Dynamics Con session "How I Manage My Team for Product and Customer Development?", Waldo  told the audience that he had some standard his company follows, and he remined us, that there was a Design Pattern initiative from the NAV days, that had since been largely abandoned. Waldo felt that that was sad. I Immediately followed up, with a message to Waldo, saying I would love to partake in a community effort in bringing this back to life. After some time, Waldo reached out, and we now had a team of four - which after Microsoft caught wind of the effort was expanded with a Microsoft Team Member.
 
-https://alguidelines.dev is the result of this - And this is by no means complete, and we want YOU to take part of this as well. Participating is as easy as going to the [github repository](https://github.com/microsoft/alguidelines) and start, or participate, in a Discussion. You are also encouraged to Create a Pull Request. 
+https://alguidelines.dev is the result of this - And this is by no means complete, and we want YOU to take part of this as well. Participating is as easy as going to the [github repository](https://github.com/microsoft/alguidelines) and start, or participate, in a Discussion. You are also encouraged to Create a Pull Request.
 
 This site is meant to be the 'Generally Agreed upon patterns and standards', and having Microsoft involved, we hope this will be to where all developers are looking for best practices. If we all follow the same methods and standards, quite frankly, we all win.
 

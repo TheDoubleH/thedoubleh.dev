@@ -3,7 +3,6 @@ title: "I Am Presenting a Webinar"
 subtitle: "Long time listener, First time caller ..."
 date: 2022-04-26T15:32:49-07:00
 draft: false
-authors: [Henrik]
 description: ""
 tags: [webinar,speaking]
 categories: [Development]

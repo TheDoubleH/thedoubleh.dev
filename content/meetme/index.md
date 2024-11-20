@@ -3,7 +3,6 @@ title: "Come Meet Me"
 subtitle: "Come join me at these events where I will be speaking"
 date: 2023-11-07T10:07:16-08:00
 draft: false
-authors: [Henrik]
 description: "See what events I will be attending."
 tags: [events, speaking]
 categories: []
