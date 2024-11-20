@@ -2,7 +2,7 @@
 title: "SeeYou on Bluesky?"
 subtitle: "Find me with the rest of the #msdyn365bc folks"
 date: 2024-11-20T14:23:26-08:00
-draft: true
+draft: false
 description: "I hope to see you all on bluesky"
 tags: []
 categories: []
