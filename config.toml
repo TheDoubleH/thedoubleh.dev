@@ -18,6 +18,13 @@ relativeURLs = true
   # date formatting
   dateFormat = "Monday, Jan 2, 2006"
 
+  [params.author]
+    name = "Henrik"
+    link = "https://github.com/TheDoubleH"
+    email = "henrik@helgesen.us"
+    avatar = "https://avatars.githubusercontent.com/u/52968553?v=4"
+    gravatarEmail = "henrik@helgesen.us"
+
   [params.analytics]
     enable = true
     # Google Analytics
@@ -276,9 +283,6 @@ relativeURLs = true
   [markup.highlight]
     # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
     noClasses = false
-
-[author]
-  name = " "
 
 [sitemap]
   changefreq = "weekly"
