@@ -149,11 +149,6 @@ relativeURLs = true
       paginate = 7
 
   # Social config in home page
-  [params.social.Bluesky]
-  medium = "Bluesky"
-  icon = "bluesky"
-  link = "https://bsky.app/profile/thedoubleh.dev"
-
   [params.social]
     GitHub = "TheDoubleH"
     Linkedin = "TheDoubleH"
