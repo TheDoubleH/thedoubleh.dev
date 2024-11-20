@@ -1,7 +1,7 @@
 ---
-title: "See You on Bluesky?"
+title: "See you on Bluesky?"
 subtitle: "Find me with the rest of the #msdyn365bc folks"
-date: 2024-11-20T14:23:26-08:00
+date: 2024-11-20T15:23:31-08:00
 draft: false
 description: "I hope to see you all on bluesky"
 tags: []
@@ -9,8 +9,7 @@ categories: []
 series: []
 series_weight: 1
 seriesNavigation: true
-images: ['/posts/See-you-on-bluesky/featured-image.jpg']
-featuredImage: "/posts/See-you-on-bluesky/featured-image.jpeg"
+featuredImage: "featured-image.jpg"
 featuredImagePreview: ""
 lightgallery: true
 outdatedArticleReminder:
