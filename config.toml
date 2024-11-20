@@ -150,6 +150,7 @@ relativeURLs = true
 
   # Social config in home page
   [params.social]
+    bluesky = 'profile/thedoubleh.dev'
     GitHub = "TheDoubleH"
     Linkedin = "TheDoubleH"
     Twitter = "TheDoubleH"
