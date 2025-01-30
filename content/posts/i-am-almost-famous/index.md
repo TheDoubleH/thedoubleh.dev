@@ -32,6 +32,3 @@ Read more about this episode on the [Dynamics Corner Website](https://www.dynami
 
 ## People Mentioned
 
-{{< friend name="Kristoffer Ruyeras" url="https://matalino.io/about/" avatar="https://pbs.twimg.com/profile_images/1535294689263222789/fdkYgzgD_400x400.jpg" bio="Co-Host of Dynamics Corner Podcast" >}}
-
-{{< friend name="Brad" url="https://www.dvlprlife.com/" avatar="https://pbs.twimg.com/profile_images/1067046841869459460/1EBMGra-_400x400.jpg" bio="Co-Host of Dynamics Corner Podcast" >}}

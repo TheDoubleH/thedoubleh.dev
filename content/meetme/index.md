@@ -9,9 +9,10 @@ categories: []
 series: []
 series_weight: 1
 seriesNavigation: true
+images: ['featured-image.jpg', 'directionsemea2023.jpg', 'directionsemea2024.jpg']
 featuredImage: "featured-image.jpg"
-featuredImagePreview: ""
 lightgallery: true
+featuredImagePreview: ""
 outdatedArticleReminder:
   enable: false
 share:
@@ -19,7 +20,7 @@ share:
 toc: 
   auto: false
 ---
-# Meet Me
+![](featured-image.jpg)
 
 After being in attendee in several conferences in the NAV / Business Central World for a decade or two, Luc Van Vugt asked me to co-present with him. That lead me to talk about [10 Myths about test automation on customer projects](https://sessionize.com/s/TheDoubleH/10-myths-about-test-automation-on-customer-project/77083) at Directions EMEA in October 2023  in Lyon, France.
 
