@@ -1,0 +1,109 @@
+baseURL = 'https://TheDoubleH.dev/'
+title = 'Henriks home in cyberspace'
+enableRobotsTXT = true
+enableGitInfo = false
+enableEmoji = true
+theme = 'DoIt'
+relativeURLs = false
+languageCode = 'en-us'
+languageName = "English"
+hasCJKLanguage = false
+
+
+
+
+[params]
+  # DoIt theme version
+  version = "0.3.X"
+  # site description
+  description = "Ramblings about Microsoft Dynamics 365 Business Central"
+  # site keywords
+  keywords = ["Microsoft Dynamics 365 Business Central", "Navision", "Microsoft Dynamics-NAV"]
+  # date formatting
+  dateFormat = "Monday, Jan 2, 2006"
+
+  [params.page.library.js]
+      cookieyes = "https://cdn-cookieyes.com/client_data/b111274434d39023cfe7ff62/script.js"
+      gravitec = "https://cdn.gravitec.net/storage/4ff0afb0e7e165ff9815935e7eeca02e/client.js"
+      usermetric = "https://app.usermetric.io/pixel/1UCoCRuBvTZba9e5"
+      # bannerloader = "bannerloader.js"
+      
+  # Home page config
+  [params.home]
+    # amount of RSS pages
+    rss = 10
+
+    # Home page profile
+    [params.home.profile]
+      enable = true
+      # Gravatar Email for preferred avatar in home page
+      gravatarEmail = "henrik@helgesen.us"
+      # URL of avatar shown in home page
+      #avatarURL = "/images/avatar.webp"
+      # title shown in home page (HTML format is supported)
+      title = "Henriks Home in Cyberspace"
+      # subtitle shown in home page
+      subtitle = "Over twenty years of doing NAV and now BC, I have a few ideas - Whether they are any good, is up to You"
+      # whether to use typeit animation for subtitle
+      typeit = false
+      # whether to show social links
+      social = true
+      # disclaimer (HTML format is supported)
+      disclaimer = ""
+
+    # Home page posts
+    [params.home.posts]
+      enable = true
+      # special amount of posts in each home posts page
+      paginate = 7
+
+  # Social config in home page
+  [params.social]
+    bluesky = "thedoubleh.dev"
+    GitHub = "TheDoubleH"
+    Linkedin = "TheDoubleH"
+    Twitter = "TheDoubleH"
+    Youtubechannel = ""
+    Paypal = "TheDoubleH"
+    BuyMeACoffee = "TheDoubleH"
+    Email = "henrik@helgesen.us"
+    RSS = true
+  [params.social.Mastodon]
+    id = "@TheDoubleH"
+    prefix = "https://msdyn365.social/"
+
+  # Search Configuration
+  [params.search]
+    enable = true
+    # type of search engine ("lunr", "algolia", "fuse")
+    type = "fuse"
+    # max index length of the chunked content
+    contentLength = 4000
+    # placeholder of the search bar
+    placeholder = ""
+    #  max number of results length
+    maxResultLength = 10
+    #  snippet length of the result
+    snippetLength = 30
+    #  HTML tag name of the highlight part in results
+    highlightTag = "em"
+    #  whether to use the absolute URL based on the baseURL in search index
+    absoluteURL = false
+    [params.search.algolia]
+      index = ""
+      appID = ""
+      searchKey = ""
+    [params.search.fuse]
+      #  https://fusejs.io/api/options.html
+      isCaseSensitive = false
+      minMatchCharLength = 2
+      findAllMatches = false
+      location = 0
+      threshold = 0.3
+      distance = 100
+      ignoreLocation = false
+      useExtendedSearch = false
+      ignoreFieldNorm = false
+
+[social]
+  twitter = 'TheDoubleH'
