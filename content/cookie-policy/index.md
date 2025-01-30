@@ -20,12 +20,8 @@ share:
 toc: 
   auto: true
 ---
-
- a.cky-banner-element { padding: 8px 30px; background: #F8F9FA; color: #858A8F; border: 1px solid #DEE2E6; box-sizing: border-box; border-radius: 2px; cursor: pointer; } Cookie Policy
- 
  Effective Date: 29-Jan-2025 
  Last Updated: 29-Jan-2025 
-
 
  ## What are cookies?
  
