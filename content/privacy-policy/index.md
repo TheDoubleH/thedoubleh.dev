@@ -53,7 +53,7 @@ Do note that if you do not allow us to collect or process the required personal 
  
 ## Cookies Etc. 
 
-To learn more about how we use these and your choices in relation to these tracking technologies, please refer to our {{< link "./cookie-policy" Cookie Policy "View our Cookie Policy" >}}. 
+To learn more about how we use these and your choices in relation to these tracking technologies, please refer to our {{< link "/cookie-policy" "Cookie Policy" "View our Cookie Policy" >}}. 
  
 ## Security: 
 

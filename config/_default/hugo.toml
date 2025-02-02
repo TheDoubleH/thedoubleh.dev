@@ -9,9 +9,6 @@ languageCode = 'en-us'
 languageName = "English"
 hasCJKLanguage = false
 
-
-
-
 [params]
   # DoIt theme version
   version = "0.3.X"
@@ -68,9 +65,9 @@ hasCJKLanguage = false
     BuyMeACoffee = "TheDoubleH"
     Email = "henrik@helgesen.us"
     RSS = true
-  [params.social.Mastodon]
-    id = "@TheDoubleH"
-    prefix = "https://msdyn365.social/"
+    [params.social.Mastodon]
+      id = "@TheDoubleH"
+      prefix = "https://msdyn365.social/"
 
   # Search Configuration
   [params.search]
@@ -104,6 +101,3 @@ hasCJKLanguage = false
       ignoreLocation = false
       useExtendedSearch = false
       ignoreFieldNorm = false
-
-[social]
-  twitter = 'TheDoubleH'
