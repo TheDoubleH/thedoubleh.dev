@@ -438,7 +438,7 @@ bundle = false
       usermetric = "https://insights.thedoubleh.dev/pixel/1UCoCRuBvTZba9e5"
       # bannerloader = "bannerloader.js"      
     
-    [page.library.js]
+    #[page.library.js]
       # someJavaScript = "some.js"
       # [page.library.js.someOtherJavaScript]
       #   src = "someOther.js"
